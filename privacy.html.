@@ -1,0 +1,43 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Privacy Policy - TikTok AI Employee</title>
+<style>
+body {font-family:Arial,sans-serif;background:#101827;color:#e2e8f0;line-height:1.8;margin:0}
+main {max-width:850px;margin:auto;padding:40px 24px}
+h1,h2 {color:#48d4bd}
+a {color:#48d4bd}
+</style>
+</head>
+<body>
+<main>
+<a href="index.html">Home</a>
+<h1>Privacy Policy</h1>
+<p>Last updated: November 17, 2026</p>
+
+<h2>About this application</h2>
+<p>TikTok AI Employee is a Windows desktop application for organizing affiliate products and preparing promotional videos. TikTok account integration is currently in development.</p>
+
+<h2>Information processed</h2>
+<p>The application processes product names, affiliate links, product descriptions, images, and video files supplied or approved by its user.</p>
+
+<h2>TikTok account authorization</h2>
+<p>If TikTok integration is enabled in the future, the application may request account identification and video upload permissions through TikTok's official authorization process. The application will not require users to share their TikTok passwords directly.</p>
+
+<h2>Local storage</h2>
+<p>Product records and generated media are stored locally on the user's computer. Future TikTok authorization credentials may also require secure local storage.</p>
+
+<h2>Third-party services</h2>
+<p>AI video generation may use external services, including Hugging Face-hosted models. Images and prompts submitted to such services are subject to their respective policies.</p>
+
+<h2>Data deletion</h2>
+<p>Users may remove locally saved product records and generated files. Any future TikTok account connection should include a method to revoke authorization.</p>
+
+<h2>Contact</h2>
+<p>For privacy inquiries, contact the application operator through the contact information published on the official website.</p>
+</main>
+</body>
+</html>
